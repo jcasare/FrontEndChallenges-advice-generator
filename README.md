@@ -36,8 +36,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/jcasare/FrontEndChallenges-advice-generator)
-- Live Site URL: [Add live site URL here](https://jcasare.github.io/FrontEndChallenges-advice-generator/)
+- Solution URL: [Repo](https://github.com/jcasare/FrontEndChallenges-advice-generator)
+- Live Site URL: [Live Site](https://jcasare.github.io/FrontEndChallenges-advice-generator/)
 
 ## My process
 
